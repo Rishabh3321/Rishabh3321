@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **React, Vue, Node, Blockchain**
 
-- 📫 How to reach me **rishabhmishra@3321@gmail.com**
+- 📫 How to reach me **rishabhmishra3321@gmail.com**
 
-- 📄 Know about my experiences [https://rishabhmishra.live](https://rishabhmishra.live)
+- 📄 Know about my experiences [https://rishabhmishra.me](https://rishabhmishra.me)
 
-- ⚡ Fun fact **Love for compounding knowledge.**
+- ⚡  **Love for compounding knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
